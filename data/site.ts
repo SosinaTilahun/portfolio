@@ -7,6 +7,7 @@ export const siteConfig = {
   github: "https://github.com/SosinaTilahun",
   linkedin: "https://www.linkedin.com/in/sosina-tilahun3/",
   photo:"/profile.jpg",
+  cv:"",
 };
 
 export const navLinks = [
